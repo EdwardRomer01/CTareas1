@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Survey1\\OneDrive\\Desktop\\DefinitivoC#\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47FA1AE-BFDB-4389-AF73-3AE007DB9972}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\survey1\\onedrive\\desktop\\definitivoc#\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47FA1AE-BFDB-4389-AF73-3AE007DB9972}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47FA1AE-BFDB-4389-AF73-3AE007DB9972}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\survey1\\onedrive\\desktop\\definitivoc#\\consoleapp1\\consoleapp1\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47FA1AE-BFDB-4389-AF73-3AE007DB9972}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47FA1AE-BFDB-4389-AF73-3AE007DB9972}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\survey1\\onedrive\\desktop\\definitivoc#\\consoleapp1\\consoleapp1\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47FA1AE-BFDB-4389-AF73-3AE007DB9972}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Survey1\\OneDrive\\Desktop\\DefinitivoC#\\ConsoleApp1\\ConsoleApp1\\Extension.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Extension.cs",
+              "ToolTip": "C:\\Users\\Survey1\\OneDrive\\Desktop\\DefinitivoC#\\ConsoleApp1\\ConsoleApp1\\Extension.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Extension.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:17:28.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\Survey1\\OneDrive\\Desktop\\DefinitivoC#\\ConsoleApp1\\ConsoleApp1\\Universidad.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Universidad.cs",
+              "ToolTip": "C:\\Users\\Survey1\\OneDrive\\Desktop\\DefinitivoC#\\ConsoleApp1\\ConsoleApp1\\Universidad.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Universidad.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:16:40.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Survey1\\OneDrive\\Desktop\\DefinitivoC#\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Survey1\\OneDrive\\Desktop\\DefinitivoC#\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:16:19.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

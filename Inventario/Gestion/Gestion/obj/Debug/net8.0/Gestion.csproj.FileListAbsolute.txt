@@ -1,0 +1,14 @@
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\bin\Debug\net8.0\Gestion.exe
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\bin\Debug\net8.0\Gestion.deps.json
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\bin\Debug\net8.0\Gestion.runtimeconfig.json
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\bin\Debug\net8.0\Gestion.dll
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\bin\Debug\net8.0\Gestion.pdb
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\Gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\Gestion.AssemblyInfoInputs.cache
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\Gestion.AssemblyInfo.cs
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\Gestion.dll
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\refint\Gestion.dll
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\Gestion.pdb
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\Gestion.genruntimeconfig.cache
+C:\Users\Survey1\OneDrive\Desktop\Inventario\Gestion\Gestion\obj\Debug\net8.0\ref\Gestion.dll
